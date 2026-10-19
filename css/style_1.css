@@ -1,0 +1,32 @@
+header{
+    text-align: right;
+    color: #303030;
+    background-color: #AAAAAA;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 0.5%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+h3 {
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #b7abab;
+}
+.content_1{
+    font-size: 20px;
+    color: #303030;
+    text-align: center;
+    padding: 1%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.paragraph_1{
+    font-size: 10px;
+    color: #303030;
+    text-align: center;
+    padding: 1%;
+    font-family: 'Times New Roman', Times, serif;
+}
