@@ -1,0 +1,32 @@
+.heading {
+    text-align: center;
+    text-indent: 2px;
+    line-height: 3px;
+    word-spacing: 3px;
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 3px red;
+    font-size: 30px;
+}
+
+.heading_1 {
+    text-indent: 2px;
+    line-height: 3px;
+    word-spacing: 3px;
+    text-align: center;
+    text-shadow: 3px 3px 3px red;
+    font-size: 30px;
+}
+
+.image_block_1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 300px;
+    border: 1px solid black;
+}
+
+.image_1 {
+    height: 50%;
+    box-shadow: 3px 3px 3px red;
+}
