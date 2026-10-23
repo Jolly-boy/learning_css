@@ -30,3 +30,51 @@ h3 {
     padding: 1%;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.box_model{
+    border: #303030 3px solid;
+    padding: 5%;
+    margin: 10%;
+}
+
+.box_model_1{
+    text-align: center;
+    align-items: center;
+    margin: 5px;
+
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    font-weight: 900;
+    text-align: center;
+    color: red;
+    border: #303030 solid 3px;
+    padding: 50px;
+    background-color: goldenrod;
+    margin-bottom: 20px;
+}
+.box_static{
+    position: static;
+}
+.box_relative{
+    position: relative;
+    left: 30px;
+    top: 0px;
+}
+.box_fixed{
+    position: fixed;
+    left: 0px;
+    top: 100px;
+
+}
+.box_sticky{
+    position: sticky;
+    top: 0px;
+}
+.box_abs{
+    position: absolute;
+    left: 150px;
+    top: 10px;
+}

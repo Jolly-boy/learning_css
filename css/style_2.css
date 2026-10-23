@@ -10,3 +10,50 @@
     background-color: beige;
     color: black;
 }
+
+.b_properties_1{
+    border: 10px solid burlywood;
+    height: 200px;
+    width: auto;
+}
+
+.b_properties_2{
+    border: 10px dashed brown;
+    height: 200px;
+    width: auto;
+}
+
+.b_properties_3{
+    border: 10px dotted red;
+    height: 200px;
+    width: auto;
+}
+
+.b_properties_4{
+    border: 10px double pink;
+    height: 200px;
+    width: auto;
+}
+
+.b_properties_5{
+    border: 10px inset green;
+    height: 200px;
+    width: auto;
+}
+/* opposite of inset:outset */
+.b_properties_6{
+    border: 10px groove purple;
+    height: 200px;
+    width: auto;
+}
+.b_properties_7{
+    height: 200px;
+    width: auto;
+    border: 30px solid ;
+    /* border-top-color: brown; */
+    border-color: aqua rebeccapurple darkgoldenrod goldenrod;
+    border-radius: 10%;
+    /* border-top-left-radius: 20%;
+    border-radius: 30px 45px 30px 45px; */
+
+}

@@ -30,3 +30,24 @@
     height: 50%;
     box-shadow: 3px 3px 3px red;
 }
+
+.f_family_1 {
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+}
+
+.f_family_2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.f_family_3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.f_weight{
+    font-weight: 700;
+}
+
+.f_family_4{
+    font-style: italic;
+}
